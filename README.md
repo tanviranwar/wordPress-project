@@ -1,0 +1,1 @@
+This is a WordPress project for practicing primer wp-theme and exclusive and most advanced plagin. which will help any wordpress developer to build confidence on wordPress.
